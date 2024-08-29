@@ -1,0 +1,22 @@
+[project]
+name = "wdc"
+version = "0.0.2"
+authors = [
+  { name = "Solomon Njora" },
+  { name = "Ana Dobrescu" },
+  { name = "Enes Aksay" },
+  { name = "Thanh Nguyen" },
+  { name = "Salem Bisenebit" },
+
+]
+description = "A package that allows generation of WCPS queries via Python."
+readme = "README.md"
+requires-python = ">=3.10"
+classifiers = [
+  "Programming Language :: Python :: 3",
+  "License :: OSI Approved :: MIT License",
+  "Operating System :: OS Independent",
+]
+
+[project.urls]
+Homepage = "https://github.com/Constructor-Uni-SE-non-official/Sprint3_Pair29"
