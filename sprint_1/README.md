@@ -52,4 +52,4 @@ The "wdc" library includes detailed documentation located in the "docs" folder. 
 - [Enes Aksay](https://github.com/Akysens)
 - [Thanh Nguyen](https://github.com/iamthienthanh)
 - [Salem Bisenebit](https://github.com/salemylkl)
-- [Salem Bisenebit](https://github.com/mustafafridi)
+- [Mustafa Owais](https://github.com/mustafafridi)
